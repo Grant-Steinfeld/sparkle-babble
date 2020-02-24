@@ -1,5 +1,9 @@
 # Explorations around SETI data
 
+```text
+Berkeley SETI Research Center scientists and engineers are working with Breakthrough Listen to make data from Breakthrough available to the public
+```
+
 Based on:
 
 https://github.com/UCBerkeleySETI/breakthrough/blob/master/GBT/README.md
