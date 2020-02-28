@@ -1,5 +1,6 @@
 scripts/
 *.DS_Store
+.vscode
 *.pyc
 *.egg-info
 build/
@@ -10,3 +11,4 @@ Pipfile.lock
 scratch*
 *.psd
 .venv/
+*_.txt
