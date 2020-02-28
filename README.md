@@ -1,3 +1,5 @@
+[![Grant-Steinfeld](https://circleci.com/gh/Grant-Steinfeld/sparkle-babble.svg?style=svg)](https://grantsteinfeld.com/)
+
 ## Explore SETI data to look for signatures of extraterrestrial intelligence
 
 ```text
